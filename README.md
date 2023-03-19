@@ -1,2 +1,2 @@
 # CurrencyBot
-something about telebot
+
